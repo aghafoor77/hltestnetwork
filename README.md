@@ -20,5 +20,5 @@ To deploy the Hyperledger Fabric test network along with the smart contracts, ru
 ```bash
 ./deploy.sh
 
-Also check README.txt for conneaction information.
+Also check READMEHL.txt for connection information.
  
